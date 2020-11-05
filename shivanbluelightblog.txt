@@ -1,0 +1,293 @@
+﻿The Truth Behind Blue Light
+Digital devices have now become the centre of our lives. Almost everyone carries it in their pockets as an essential when leaving the home. They are used to answer all your important emails at work. Children use them as a means of learning for school. For the entire family, it acts as a medium for entertainment as well.
+
+
+Combined with the increase in digital devices is a surge in health awareness and prevention of disease. We smoke less(Facts & figures | Health Promotion Agency Smokefree)). One in two adults are physically active((Activity levels in New Zealand | Ministry of Health NZ)). Personally, I have become more conscious about diet, exercise and sleep. We are aware of Ultraviolet (UV) exposure on a sunny day and how we are encouraged to use a sunhat, sunglasses and sunscreen((Consensus Statement on Vitamin D and Sun Exposure in New Zealand)).
+
+
+Combining the two, there is raised concern about blue light emitted from these devices causing permanent damage to the eyes. 
+
+
+Before any alarm bells are raised about the mention of ‘permanent damage’. I want to cover some important topics before we start a campaign to purge blue light.
+
+
+We will look into
+* the definition of light, especially blue light, 
+* if it causes harm and how it can affect health,
+* and what we can do about it
+
+
+As a disclaimer, if you have any eye problems, please see your local Optometrist. I may be an Optometrist but I am not your Optometrist. Building a relationship with your local Optometrist and having regular full eye examination is paramount for maintaining good eye health.
+What is Light and Blue Light?
+Before I continue, I’d suggest trying to read and understand the following but if science, equations and explanations makes you sick you can skip this.
+
+
+Light or more formally, visible light, is a form of electromagnetic radiation. Electromagnetic radiation is energy in the form of waves passing through an electric and magnetic field that surrounds us, similar to waves travelling through the ocean.
+
+
+The electromagnetic spectrum describes the different types of electromagnetic radiation based on a specific property, wavelength, λ (represented with a lowercase greek letter called lamba and measured in metres).
+
+
+This spectrum includes radio waves that allow the voice of your favourite radio hosts to be heard from the comfort of your car. X-rays are another type of radiation that allows doctors to see the bones of a fracture without cutting open the skin. Microwaves are a type of radiation where the wavelength is a specific distance to cause water molecules to vibrate allowing reheating of food.
+
+
+Visible light is a form of radiation as well. It is particularly important as this is what our eyes can perceive and what we will focus on today.
+
+
+As said before, the difference between all these types of radiations is the wavelength, which is determined by the frequency, f (measured in hertz) of its source and the velocity, v (speed in a certain direction and measured in metres per second; c is used in place of v to represent speed of light in a vacuum).
+
+
+Furthermore, the velocity of the radiation is determined by the medium in which it travels in (e.g. air or water or glass).
+
+
+We can describe the relationship between wavelength, frequency and velocity with one simple equation.
+
+
+  
+
+
+
+Different colours of light have different wavelengths when observed as shown below. For example, blue light has a shorter wavelength than red light.
+
+
+  
+
+How do we determine different colours of light?
+
+
+The retina is a layer of cells at the back of the eye which sense light. The specific cells that determine colour are called cones. 
+
+
+There are three different types of cones - short (S), medium (M) and long (L) - and they are all excited maximally by a particular wavelength of light - blue 420–440 nm, green 530–540 nm, and red 560–580 nm - respectively((Peak Sensitivity - an overview | Science Direct)).
+
+
+Different excitation levels for all three cones are observed for different wavelengths of light. For example, blue light will excite the cones sensitive to blue light while the other two cones would have no excitation. 
+
+
+Magenta, which is an additive combination of red and blue((Additive Color: Theory & Definition)), resulting in excitation of cones specified for blue and red equally. A more ‘bluish-magenta’ will excite the blue cones a little more, allowing for discrimation of colour.
+
+
+In the case of red-green colorblindness (formally red-green colour deficiency), one of the three cones, particularly the L or M cone (red or green detector) are missing or defective. This does not lead to complete loss of colour vision but an inability to determine as many colours (particularly shades of reds and greens) compared to an individual without colour deficiency.
+
+
+Males are more likely to have red-green colour deficiency due to the gene coding for the retinal long and medium cone being present on the X-chromosome. Males only have one X-chromosome so if there is one defective gene, this results in a defective L or M cone as opposed to females who have two X-chromosomes and must have both defective genes present on both chromosomes, which is significantly more rare((Color Blindness Prevalence)).
+
+
+Electromagnetic radiation outside of this visible light spectrum (380 to 740 nm) like UV light or infrared light do not excite the cones in the human eye and therefore are not perceived visibly.
+
+
+Electromagnetic waves show a wave-particle duality((Wave-particle duality | physics | Britannica)). This means that under certain conditions light, for example, can act as both a wave and a particle. 
+
+
+Around the turn of the 19th century, an interesting observation was made. When UV light was shone on a metallic surface, an electrical current was observed. Energy is neither created nor destroyed so the light was being transferred into electrical energy - hence, the Photoelectric effect((Photoelectric effect | physics | Britannica)).
+
+
+It was noted that only above a certain frequency, an electrical current would be observed and if the UV light was below this particular frequency increasing the light intensity did not result in a current.
+
+
+In 1905, Einstein determined the reason for this is because light energy is packaged into quanta, called photons.
+
+
+Photons are massless packets of energy. The amount of energy, E  is determined by the frequency, f of the radiation. This is expressed as:
+  
+
+
+
+Planck's constant is known as h. The higher the frequency, the photon will have more energy. For example, high-frequency gamma rays will have more energy per photon for low-frequency radio waves.
+
+
+For a high enough frequency, the photon will have enough energy when it is absorbed by an electron on the metal surface to cause this electron to escape. This leads to a flow of charge and thus a current.
+
+
+In the case of visible light, blue light has the shorter wavelength and thus a higher frequency as opposed to red light, which has the longest wavelength and a lower frequency of visible light.
+
+
+Therefore, blue light has higher energy photons than red light. 
+
+
+A bit confusing with equations and science? Don’t worry, just remember blue light has more energy than red light. More energy has potential to cause more damage.
+What about UV light?
+We know that UV light is harmful especially when it causes skin cancers but it is also beneficial due to aiding in production of vitamin D in the body((UV and ozone | NIWA)).
+
+
+UV light is classed into three categories based on wavelength: UV-A (315-400 nm), UV-B (280-315 nm), UV-C (100-280 nm). Note that UV light has shorter wavelengths than visible light and so has more energy as well per photon.
+
+
+UV-C and 90% of UV-B is absorbed by the ozone layer and atmosphere((Ultraviolet radiation and health | World Health Organisation)).
+
+
+This means the remaining UV that we are exposed to is mainly UV-A with some UV-B. The cornea (front transparent layer of the eye) absorbs some UV-B light. The lens absorbs the rest of the UV-B and UV-A light. This means little to no UV reaches the retina.
+
+
+Even though UV may not harm the retina, long-term UV exposure can result in cataract (clouding of the lens) and pterygium (growing on the whites of eyes towards the cornea).
+
+
+Short term UV exposure, such as skiing for example, can result in photokeratitis, which is equivalent to sunburn but at the level of your cornea. The symptoms of pain are usually delayed. So you might have been fine while skiing, but the pain comes along a bit later.
+
+
+Therefore, it is important to use sun protection such as high-wrap sunglasses and sun hats to reduce UV exposure to the eyes. It is paramount that the sunglasses are rated “UV400” - these are rated to block UV light, not just offer a tint to reduce visible light((Ultraviolet damage to the eye revisited - FB Cohen et al.)).
+Our Devices
+Now that we have established the properties of light and its colours; let’s have a look at the white light.
+
+
+White light results for all colours being present if they are additive. This provides equal stimulation of all the three types of cone cells in our eye, giving the perception of white.
+
+
+Most of our digital devices are backlit with light emitting diodes (LEDs). Digital devices include: modern televisions, computer monitors, smartphone LED and evening lights at home. LEDs, as a source of light, emits more blue light((Measurement of Emission Spectra of LED Light Bulbs : SHIMADZU)) than for example an the old incandescent bulb((Calculating the Emission Spectra from Common Light Sources)).
+
+
+You might notice that a LED light appears more blue compared to a candle light which is a bit more orange in colour. The amount of blue or orange is described as colour temperature, measured in Kelvin, K. Not to be confused with the thermal temperature which is also measured in Kelvin as well as degrees Celsius and Fahrenheit.
+
+
+Not all white lights are made equal. It results from the inconsistencies of all the different colours of light not being equal. Higher colour temperatures tend to be more blue (e.g. LED) and lower colour temperatures tend to have more orange (e.g. candle light).
+
+
+We have established that blue light has higher energy and higher energy has more potential for damage. We now know that LED lights, which are used to backlight digital devices, have plenty of blue light.
+
+
+We can also now see the fear in blue light especially with digital devices and how our society has really moulded its way around use of these devices for work and entertainment.
+
+
+But does blue light really cause damage to the back of the eye?
+Blue Light and Damage
+From what has been discussed with blue light having higher energy and with so many people being exposed to this blue light from their digital devices, in theory, there should be damage to the retina.
+
+
+How does theory come into practice?
+
+
+A study was performed on mice, where one group who were exposed to cold fluorescent lamp developed more toxic products at the level of the retina than mice who were exposed to light with less blue light((Removal of the blue component of light significantly decreases retinal damage after high intensity exposure - ZC Zhao et al.)).
+
+
+However, these mice were albino, which means they lacked pigment in the eye. The pigment is important to absorb excess light, reducing the damaging effects to the retinal cells.
+
+
+Also, the mice were exposed to a bright light for 7 days with no breaks. The human eye would require greater exposure than a mouse eye to get equivalent damage.
+
+
+I have good news for you.
+
+
+A light so powerful is not available for consumer use, so the study does not simulate real life. 
+
+
+It is very unlikely you will be in a position where you have this much exposure when using your laptop for gaming sessions with the boys, or girls. The amount of blue light from digital devices is well below the threshold that causes retinal damage to your eyes. 
+
+
+In fact, the biggest source of blue light is the Sun in the daytime((Should You Be Worried About Blue Light? - American Academy of Ophthalmology)).
+
+
+But what about the Sun?
+
+
+The main culprit of the Sun is UV light, which is what we established before. We are doing most we can by wearing sunglasses. 
+However, not much is known about blue light and the effects from the Sun.
+
+
+Macular degeneration (MD) comes into question when we talk about damage to the retina. MD is progressive loss and damaged or retinal cells particularly those responsible for high detail, central vision. This area is known as the macula. A person with macular degeneration would have difficulty discerning detail of letters of words on street signs even with their glasses and much worse cases would have difficulty recognising faces of friends and family.
+
+
+Still, the recommendation is to be a non-smoker, exercise and have a balanced diet focusing on fish, dark green vegetables, and nuts in order to reduce the onset and progression of MD. 
+
+
+Avoiding blue light from digital devices does not come into the equation.
+
+
+What about blue light and eye discomfort?
+
+
+It is thought that blue light from the smartphone or the monitor contributes to eye discomfort. But this simply is not the case.
+
+
+With prolonged use of monitors, the rate of blinking reduces((Blink rate, incomplete blinks and computer vision syndrome -  JK Portello et al.)). Regular blinking is important to spread moisture over the front surface of the eye. When the blink rate reduces, this layer of moisture (also known as the tear film) can evaporate and result in Dry Eye. 
+
+
+The main symptoms of Dry Eye is stinging or burning sensation of the eyes and this results from reduced blink rate when concentrating on your digital device, not blue light from the screen.
+
+
+Dry Eye can be alleviated with artificial tears recommended by your Optometrist. It is also important to stay hydrated as well((Is Whole-Body Hydration an Important Consideration in Dry Eye? - Neil P. Walsh et al.)).
+
+
+In addition to this, constant focusing can lead to the eyes spasming. This is caused by, well, constant focusing with no breaks and once again not blue light.
+
+
+A good rule around this is to take breaks.
+
+
+Implementing the 20/20/20 rule is useful in this case. For every 20 minutes of work, look 20 metres away for 20 seconds. 
+
+
+Make sure you see your Optometrist for proper management of your focus and your dry eye.
+Blue Light and Sleep
+So far we know blue light from digital devices is not harmful to the retina despite our previous theories. But what about sleep?
+
+
+Our body has an internal clock that produces a Circadian Rhythm, which is a physical or behaviour change that follows a 24-hour cycle.
+
+
+This could be apetite, body temperature and alertness, but an important to this topic is the sleep-wake cycle((Biological Rhythms: Types, Disorders, and Treatments)).
+
+
+The sleep-wake cycle is strongly influenced by the hormone called melatonin. High levels of melatonin signal to our brain that it is time for sleep, hence, feeling drowsy; low levels signal the body to wake and feel refreshed after a good night’s rest.
+
+
+Melatonin is constantly produced in the pineal gland located deep in the brain.
+
+
+Light, particularly light on the blue end of the spectrum, acts as a cue for the sleep-wake cycle by signalling to the pineal gland to halt production of melatonin - the messenger of sleep((The Effects of Red and Blue Lights on Circadian Variations in Cortisol, Alpha Amylase, and Melatonin - MG Figueiro et al.)).
+
+
+The pathway for this: the retina receives blue light and this signals to the lateral geniculate nucleus (LGN), which in turn signals to the suprachiasmatic nucleus (SCN) to communicate with the pineal gland((So Tired in the Morning... The Science of Sleep)) to halt or reduce production of melatonin. This is an important fact since it is blue light entering the eye and not, for example, bathing the skin.
+
+
+Blue light from the sun is important to cue for the wake portion of our sleep-wake cycle. However, the blue light from our digital devices may also be cueing us to stay awake during the night, when we should be getting ready for sleep((Blue light | Ministry of Health NZ)).
+
+
+Sleep is a very important factor in health. Lack of sleep can lead not only to short term effects like tiredness but also a myriad of chronic health problems such as heart disease, diabetes, high -blood pressure,  obesity, depression((Sleep Deprivation and Deficiency)), and even Alzheimer’s disease((Sleep deprivation increases Alzheimer's protein | National Institutes of Health)).
+
+
+Therefore, it would be a good idea to reduce blue light exposure at night time to ensure we get good quality sleep, especially since we all live in an ecosystem where most people have to get up at the same time in the morning.
+
+
+Blue-light reduction built into smartphone operating systems and computer operating systems may be useful for late night report writing. However, this has met mixed reviews((Impacts of artificial blue light on health and the environment)).
+
+
+Lights around the home and your TV may not be able to reduce blue light emission, and this is where blue blocking glasses could be useful.
+
+
+Blue blocking glasses are generally in a form of am amber-like tint or a coating added to a lens.
+
+
+Studies have been performed and the results are mixed as well. Some studies say that there is promise((Blue blocking glasses worn at night in first year higher education students with sleep complaints: a feasibility study - GP Algorta et al.)); conversely, some studies claim that there is no significant improvement((Blue-Light Filtering Spectacle Lenses: Optical and Clinical Performances - Tsz Wing Leung)).
+
+
+There is no strict standard on blue-light blocking glasses in how much blue light is blocked or what particular wavelengths specifically as of writing. These tests would not have a particular standard, and this could be a possibility for the mixed results.
+
+
+The best remedy is most likely to limit screen use at night time and to reduce exposure to blue light. Additionally, look to change the light bulbs you have around the home to those with warmer colour temperatures. This would be the case of lights that you would use at night time before bed like the bedroom and lounge.
+
+
+Personally, I take sleep and health very seriously. I aim to not use a digital device an hour before bed. I opt for a relaxing chamomile tea and I would either read a book, draw a picture, write in my journal, or draft these blogs with pencil and paper.
+
+
+From this, we can establish that blue light may not cause any retinal health problems in the short term, but long term exposure at night time may affect sleep which has other health problems later down the track.
+Conclusion
+With a culture shifting towards a more health conscious society, blue light’s harmful effects have come into question.
+
+
+Due to the nature of light, blue light has more energy than other colours of the visible spectrum and therefore more potential for harm and damage.
+
+
+However, blue light from digital devices is miniscule compared to the sun. 
+
+
+Exposure from digital devices may not harm the retina but it might harm our sleep if used at night time before bed, which has a cascade of long-term health problems such as heart problems and Alzheimer’s.
+
+
+Remedies for reduced blue light exposure might lie in blue blocking glasses and applications that reduce blue light emission, but there is no robust study to prove this completely.
+
+
+The best thing seems to be limiting digital device use at night time for improved sleep and thus long term health.
+
+
+If you enjoyed reading this and found it informative, comment what you think and share this with others. Please subscribe to my newsletter to keep up-to-date and get in touch with me if you have any questions or want to discuss anything further.
