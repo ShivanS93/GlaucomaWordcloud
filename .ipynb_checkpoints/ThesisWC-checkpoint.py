@@ -15,7 +15,6 @@ def ThesisWC(file):
     import random as r
     import pandas as pd
     import re
-    import time
 
     import matplotlib.pyplot as plt
     #%matplotlib inline
